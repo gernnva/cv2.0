@@ -1,0 +1,35 @@
+.menu-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1em;
+}
+
+
+.header-principal {
+    display: flex;
+    align-items: center;
+    
+}
+
+.menu__list {
+    display: flex;
+    align-items: center;
+}
+
+.title__div{
+    display: flex;
+    margin-top: 3em;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1em;
+}
+
+.title__network {
+    justify-content: flex-start ;
+}
+
+.about__title {
+    
+    
+}
